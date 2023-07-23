@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniyar Zhakyp
-- 👨‍🎓 I'm a 4th year Electrical and Computer Engineering student at Nazarbayev University
+- 👨‍🎓 I hold a Bachelor's Degree in Electrical and Computer Engineering at Nazarbayev University
 - 👨‍💻 I'm a research assistant in Applications of Signal Processing (ASP) Laboratory
 - 👀 I’m interested in electronics, robotics and machine learning
 - 🌱 I’m currently having a project on the design of bionic prosthesis based on AI algorithms
