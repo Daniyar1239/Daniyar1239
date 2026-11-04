@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniyar Zhakyp
-- 👨‍🎓 I hold a Bachelor's Degree in Electrical and Computer Engineering at Nazarbayev University
-- 🌱 I hold a Master's Degree in Automation Engineering at UNIBO
+- 👨‍🎓 I hold a Bachelor's Degree in Electrical and Computer Engineering at the Nazarbayev University
+- 🌱 I hold a Master's Degree in Automation Engineering at the University of Bologna
 - 👨‍💻 I am working as the Robotics Engineer 
 - 👀 I am interested in electronics, robotics and machine learning
 - 📫 You can reach me by writing to daniyar.zhakyp@alumni.nu.edu.kz
